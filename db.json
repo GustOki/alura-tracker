@@ -5,8 +5,12 @@
       "nome": "Alura Tracker 3.0"
     },
     {
-      "nome": "ByteBank",
-      "id": 3
+      "id": 3,
+      "nome": "ByteBank2.0"
+    },
+    {
+      "id": 4,
+      "nome": "Estudando padrões de projeto"
     }
   ],
   "tarefas": [
@@ -36,6 +40,15 @@
         "nome": "Alura Tracker 3.0"
       },
       "id": 3
+    },
+    {
+      "duracaoEmSegundos": 5,
+      "descricao": "teste",
+      "projeto": {
+        "id": 4,
+        "nome": "Estudando padrões de projeto"
+      },
+      "id": 4
     }
   ]
 }
